@@ -6,7 +6,6 @@ package qiuzhongrun.com.classloader.initial.array;
  *      ['s number equals it's number of dimensions,
  * 3. array's super class is java.lang.Object,
  *      whatever dimensions of this array
- * 3.
  */
 public class Tester {
     public static void main(String[] args) {
